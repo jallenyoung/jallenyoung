@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jallenyoung
-- 👀 I’m interested in Python, R, SQL, Data Analytics, UX Research/Analytics
-- 🌱 I’m currently learning Python, R, SQL
+- 👀 I’m interested in Data Analytics, Visualization, SQL, Tableau, Looker & LookML
+- 🌱 I’m currently learning Looker & LookML, intermediate to advanced SQL
 - 💞️ I’m looking to collaborate on beginner/intermediate coding projects or data analytics projects
 - 📫 How to reach me at j.allen.young@gmail.com
 
